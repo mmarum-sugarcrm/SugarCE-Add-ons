@@ -137,6 +137,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com.
 * [SugarCRM RubyGem](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM.
 * [Yathit InboxCRM: SugarCRM for Gmail](https://github.com/yathit/sugarcrm-gmail-chrome-extension) - Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
+* [Matt's Sweet Integration](http://mgmarum.com/sweet) - A SWEET integration built by Matt.
 
 ## Knowledge Management
 
